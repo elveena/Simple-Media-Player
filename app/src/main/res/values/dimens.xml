@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Sizes-->
+  <dimen name="video_height">300dp</dimen>
+  <dimen name="seek_bar_width">0dp</dimen>
+
+  <!--Margins-->
+  <dimen name="progress_margin">8dp</dimen>
+  <dimen name="image_button_margin">20dp</dimen>
+</resources>

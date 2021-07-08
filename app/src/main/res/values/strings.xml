@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">MyTube Video Player</string>
+
+  <!--Menu-->
+  <string name="select_file">Select file</string>
+
+  <!--Play Image Button Description-->
+  <string name="image_button_desc">This is the play and pause button for the video player.</string>
+
+  <!--Default value-->
+  <string name="default_value">00:00</string>
+</resources>
